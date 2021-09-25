@@ -1,0 +1,12 @@
+/home/mina/IdeaProjects/mina-bonyadi/src/main/java/come/example/mancala/game/dto/PlayingResponse.java
+/home/mina/IdeaProjects/mina-bonyadi/src/main/java/come/example/mancala/game/impl/PlayingStrategy.java
+/home/mina/IdeaProjects/mina-bonyadi/src/main/java/come/example/mancala/MancalaApplication.java
+/home/mina/IdeaProjects/mina-bonyadi/src/main/java/come/example/mancala/game/handler/CommandHandler.java
+/home/mina/IdeaProjects/mina-bonyadi/src/main/java/come/example/mancala/game/enumeration/StrategyName.java
+/home/mina/IdeaProjects/mina-bonyadi/src/main/java/come/example/mancala/game/impl/RuleHandler.java
+/home/mina/IdeaProjects/mina-bonyadi/src/main/java/come/example/mancala/game/service/GameManagement.java
+/home/mina/IdeaProjects/mina-bonyadi/src/main/java/come/example/mancala/game/component/RealToBotPlaying.java
+/home/mina/IdeaProjects/mina-bonyadi/src/main/java/come/example/mancala/game/exception/MancalaException.java
+/home/mina/IdeaProjects/mina-bonyadi/src/main/java/come/example/mancala/game/service/GameStrategyFactory.java
+/home/mina/IdeaProjects/mina-bonyadi/src/main/java/come/example/mancala/game/component/RuleManagementImpl.java
+/home/mina/IdeaProjects/mina-bonyadi/src/main/java/come/example/mancala/game/enumeration/PlayerType.java
